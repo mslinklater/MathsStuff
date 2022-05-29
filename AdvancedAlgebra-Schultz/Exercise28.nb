@@ -1,0 +1,50 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 13.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      1088,         40]
+NotebookOptionsPosition[       739,         26]
+NotebookOutlinePosition[      1138,         42]
+CellTagsIndexPosition[      1095,         39]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[BoxData[
+ RowBox[{"(*", "1", "*)"}]], "Input",
+ CellChangeTimes->{{3.862720933574067*^9, 
+  3.862720944324444*^9}},ExpressionUUID->"6dab0829-e8ab-4586-9f26-\
+1d49ea7d36b4"]
+},
+WindowSize->{1437.75, 762.},
+WindowMargins->{{Automatic, 0.75}, {-1.5, Automatic}},
+FrontEndVersion->"13.0 for Linux ARM (32-bit) (April 7, 2022)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"abc2caf0-bb67-4268-8f9b-63b81156507f"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[558, 20, 177, 4, 45, "Input",ExpressionUUID->"6dab0829-e8ab-4586-9f26-1d49ea7d36b4"]
+}
+]
+*)
+
+(* End of internal cache information *)
+
